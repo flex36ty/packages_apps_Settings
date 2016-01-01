@@ -7080,10 +7080,6 @@
     <!-- Description of feature to change color setting for the display [CHAR LIMIT=NONE] -->
     <string name="picture_color_mode_desc">Use sRGB</string>
 
-    <!-- Show/Hide Search Bar -->
-    <string name="recents_show_searchbar">Show search bar in recents menu</string>
-    <string name="keywords_recents_show_searchbar">recent recents disable enable show hide search bar searchbar</string>
-
     <!-- Display & Lights screen, setting options for LCD density -->
     <string name="lcd_density">LCD density</string>
     <string name="dialog_title_lcd_density">LCD density</string>
